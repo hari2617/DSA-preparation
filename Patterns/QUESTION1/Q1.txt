@@ -1,0 +1,8 @@
+******
+******
+******
+******
+******
+
+
+the N value is given in question basedon that we have to print the pattern

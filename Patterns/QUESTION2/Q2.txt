@@ -1,0 +1,8 @@
+*
+**
+***
+****
+*****
+******
+
+the n value is given in Q
