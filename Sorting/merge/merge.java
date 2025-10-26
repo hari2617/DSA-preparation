@@ -4,6 +4,16 @@ import java.util.*;
 public class merge{
 
 
+
+    //divide and merge (as ascending )
+
+    //merge-O(n)
+    //divide - O(log n)
+
+    //time complexity O(n log n)
+
+    
+
     public static void mergeArray(int[] arr,int low,int mid,int high){
         
         List<Integer> temp=new ArrayList<>();
