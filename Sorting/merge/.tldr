@@ -17,15 +17,15 @@
 			"com.tldraw.asset.image": 5,
 			"com.tldraw.asset.video": 5,
 			"com.tldraw.shape.group": 0,
-			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 2,
-			"com.tldraw.shape.geo": 10,
-			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.draw": 3,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 10,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
-			"com.tldraw.shape.arrow": 7,
-			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 2,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -87,12 +87,12 @@
 			"typeName": "shape"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": -476.56682351806785,
-			"y": -145.17217211351823,
+			"x": 0,
+			"y": 0,
 			"lastActivityTimestamp": 0,
-			"meta": {}
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
 		},
 		{
 			"followingUserId": null,
@@ -111,8 +111,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1188,
-				"h": 519.2000122070312
+				"w": 1318.4000244140625,
+				"h": 309.6000061035156
 			},
 			"insets": [
 				false,
@@ -153,9 +153,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 476.56682351806785,
-			"y": 145.17217211351823,
-			"z": 0.5229946687259776,
+			"x": 2056.0069952739764,
+			"y": 286.4123137348082,
+			"z": 0.24278075682288186,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
