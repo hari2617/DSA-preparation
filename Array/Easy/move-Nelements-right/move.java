@@ -19,9 +19,9 @@ public class move{
 
     public static void moveRight(int[] arr,int n, int ryt){
 
-        reverse(arr,0,n-ryt-1);
-        reverse(arr,n-ryt,n-1);
         reverse(arr,0,n-1);
+        reverse(arr,0,ryt-1);
+        reverse(arr,ryt,n-1);
     }
 
 
